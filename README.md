@@ -1,9 +1,9 @@
 # StreamFlix Reborn
 
-> ⚠️ **This repository was removed from GitHub following a DMCA takedown.**
+> ⚠️ **The StreamFlix Reborn repository has been removed from GitHub following a DMCA takedown.**
 >
 > This is not an isolated incident — it is part of a long pattern of actions by GitHub that left us with no choice but to move.
-> This new GitHub page exists solely to inform you of our permanent move to a new platform.
+> This is a new repository created solely to inform you of our permanent move to a new platform.
 
 ---
 
